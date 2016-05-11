@@ -10,7 +10,7 @@ import org.apache.commons.io.monitor.FileAlterationObserver;
 
 public class ApacheFileMonitor {
 
-	public static final String MONTIOR_FOLDER = "//home//vinil//workspace//DirectoryPoller//MyFiles";
+	public static final String MONTIOR_FOLDER = "//home//vinil//workspace//DirectoryPollerApache//MyFiles";
 
 	public static void main(String args[]) {
 		final long pollingInterval = 20 * 1000;
